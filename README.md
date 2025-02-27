@@ -1,16 +1,16 @@
-# Clasificarea Semnelor Rutiere
+# Traffic Sign Classification
 
 
-Acest proiect folosește o rețea neuronală convoluțională (CNN), 
-pentru a clasifica semnele rutiere. Scopul principal este de a dezvolta un model capabil să identifice 
-și să categorizeze diferite tipuri de semne rutiere din imagini, oferind astfel un instrument util 
-pentru aplicații de asistență rutieră și vehiculele autonome.
+This project uses a Convolutional Neural Network (CNN) to classify traffic signs. 
+The main objective is to develop a model capable of identifying and categorizing 
+different types of traffic signs from images, providing a useful tool for road 
+assistance applications and autonomous vehicles.
 
-Am folosit doua data seturi de pe Kaggle:
+We used two datasets from Kaggle:
 - https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 - https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed/data
+  
+These datasets contain over 80,000 images classified into 43 categories.
 
-Acestea au peste 80.000 de imagini clasificate in 43 de categorii.
-
-Link pentru teaser:
+Teaser Link:
 https://www.youtube.com/watch?v=OCto__jGyDk
