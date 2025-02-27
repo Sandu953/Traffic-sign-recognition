@@ -14,9 +14,3 @@ Acestea au peste 80.000 de imagini clasificate in 43 de categorii.
 
 Link pentru teaser:
 https://www.youtube.com/watch?v=OCto__jGyDk
-
-Proiect realizat de:
-- Pop Alexandru
-- Pânzaru Tudor
-- Treșca George
-- Ștețco Andrei
