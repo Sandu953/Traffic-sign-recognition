@@ -12,5 +12,3 @@ We used two datasets from Kaggle:
   
 These datasets contain over 80,000 images classified into 43 categories.
 
-Teaser Link:
-https://www.youtube.com/watch?v=OCto__jGyDk
